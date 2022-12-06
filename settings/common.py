@@ -84,7 +84,7 @@ IGNORABLE_404_STARTS = ("/phpmyadmin/",)
 ATOMIC_REQUESTS = True
 TIME_ZONE = "UTC"
 LOGIN_URL = "/auth/login/"
-USE_TZ = True
+USE_TZ = False
 
 USE_I18N = True
 USE_L10N = True
